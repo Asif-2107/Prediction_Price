@@ -12,7 +12,7 @@ import numpy as np
 # In[5]:
 
 
-data = pd.read_csv("/Users/iftikarasif/Desktop/Housing.csv")
+data = pd.read_csv("The dataset")
 
 
 # In[6]:
